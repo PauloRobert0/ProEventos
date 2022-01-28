@@ -1,7 +1,7 @@
 import { Router } from '@angular/router';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { Component, OnInit, TemplateRef } from '@angular/core';
-import { Evento } from '../../../../../../../Back/src/ProEventos.API/Models/Evento';
+import { Evento } from '../../../Models/Evento';
 import { EventoService } from 'src/app/services/Evento.service';
 import { ToastrService } from 'ngx-toastr';
 import { NgxSpinnerService } from 'ngx-spinner';
