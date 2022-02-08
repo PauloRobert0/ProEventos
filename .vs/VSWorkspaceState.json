@@ -5,9 +5,7 @@
     "\\Back\\src",
     "\\Back\\src\\ProEventos.API",
     "\\Back\\src\\ProEventos.API\\Controllers",
-    "\\Back\\src\\ProEventos.Domain",
-    "\\Back\\src\\ProEventos.Persinstence"
+    "\\Back\\src\\ProEventos.Domain"
   ],
-  "SelectedNode": "\\Back\\src\\ProEventos.Persinstence\\ProEventosContext.cs",
   "PreviewInSolutionExplorer": false
 }
